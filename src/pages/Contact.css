@@ -1,0 +1,36 @@
+.contact {
+    padding: 20px;
+    background-color: #f0f4f8;
+    color: #1e1e1e;
+    font-family: Arial, sans-serif;
+  }
+  
+  .contact h1 {
+    text-align: center;
+    color: #004080;
+    margin-bottom: 20px;
+  }
+  
+  .contact-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .contact-info img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .contact-info a {
+    font-size: 1.25rem;
+    color: #004080;
+    text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+  
